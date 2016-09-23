@@ -1,5 +1,5 @@
 ## Created by Jean-Louis Rochet on 9-22-2016
-## Map visualization for Cambridge crash data
+## Map visualization for Cambridge crash data affecting pedestrians
 ## CSV file downloaded from open data site and renamed "crashes.csv"
 
 # Load libraries
